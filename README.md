@@ -89,8 +89,8 @@ A software application designed to manage hospital-related information and opera
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn profile here
-- 📧 Email: Add your professional email here
+- 💼 LinkedIn: https://www.linkedin.com/in/manjushree-d-s-2a1a16325?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: manjushreeds750@gmail.com
 
 ---
 
